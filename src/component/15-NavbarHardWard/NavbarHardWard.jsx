@@ -186,14 +186,53 @@ export default function NavbarHardWard({  toggleLanguage }) {
               
             }
           />
+          
    {/* <hr className="mt-2 bg-[#666] "/> */}
    <div className={`border-b border-b-slate-100   mt-2  dark:border-hidden ${isArabic ? " " : "ml-2"}`}>
     
    </div>
 {/*  */}
 
+<div className="relative inline-block">
+  <div>
+    <button
+      type="button"
+      onClick={toggleDropdown}
+      className="inline-flex justify-center w-full rounded-md z-30 text-lg font-medium text-gray-700 dark:text-white focus:ring-offset-2 focus:ring-offset-gray-100"
+    >
+      {selectedCountryFlag ? (
+        <img src={selectedCountryFlag} alt={selectedCountry} className="w-8 h-6 mr-2" />
+      ) : (
+        <img src={usaFlag} alt="Default Flag" className="w-9 h-4 mr-2" />
+      )}
+      {selectedCountry}
+    </button>
+  </div>
+
+  {isOpen && (
+    <div
+      className="origin-top-left absolute left-0 mt-2 w-56 z-30 rounded-md bg-white ring-1 ring-black ring-opacity-5 focus:outline-none"
+      role="menu"
+      aria-orientation="vertical"
+    >
+      <div className="py-1" role="none">
+        {countries.map((country, index) => (
+          <button
+            key={index}
+            onClick={() => handleSelectCountry(country.name)}
+            className="flex items-center px-4 py-2 text-sm text-gray-700 dark:text-black hover:bg-gray-100 w-full"
+          >
+            <img src={country.flag} alt={country.name} className="w-6 h-4 mr-2" />
+            {country.name}
+          </button>
+        ))}
+      </div>
+    </div>
+  )}
+</div>
 
       <div className=" ">
+              
               
       <button className="text-xl mr-3 text-gray-700 hover:text-red-500 dark:text-white transition duration-300">
         <i className="fas fa-heart"></i>
