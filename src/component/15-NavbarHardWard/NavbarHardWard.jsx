@@ -211,7 +211,7 @@ export default function NavbarHardWard({  toggleLanguage }) {
 
   {isOpen && (
     <div
-      className="origin-top-left absolute left-0 mt-2 w-56 z-30 rounded-md bg-white ring-1 ring-black ring-opacity-5 focus:outline-none"
+      className={`origin-top-left absolute mt-2 w-56 z-30 rounded-md bg-white ring-1 ring-black ring-opacity-5 focus:outline-none ${isArabic?"right-0 ":"left-0 "}`}
       role="menu"
       aria-orientation="vertical"
     >
