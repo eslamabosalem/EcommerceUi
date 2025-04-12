@@ -1,0 +1,112 @@
+{
+  "product_namee": "رولكس سبمارينر",
+  "product_infoo": "ساعة غطس أيقونية ومتينة.",
+  
+  "Omega": "أوميغا سبيدماستر",
+  "product_iOmegafo": "ساعة قمرية تاريخية ودقيقة.",
+  
+  "Seiko": "سيكو 5",
+  "productSeiko": "ساعة ميكانيكية موثوقة وبأسعار معقولة.",
+  
+  "Patek": "باتيك فيليب ناتيلوس",
+  "Patekk": "رفاهية بتصميم فريد.",
+  
+  "productTag": "تاغ هوير موناكو",
+  "productTagd": "ساعة رياضية بشكل مربع.",
+  
+  "Audemars": "أوديمار بيجيه رويال أوك",
+  "productAudemars": "رفاهية أنيقة مع إطار مثمن.",
+  
+  "productCartier": "كارتييه تانك",
+  "productCartieer": "تصميم أنيق مستطيل الشكل.",
+  
+  "productBreitling": "برايتلينغ نافيتايمر",
+  
+    "Recommended": "موصى به",
+  
+  
+  "producBreitling": "ساعة طيار مع أدوات الطيران.",
+
+    "Sale": "عرض",
+  "Add TO Cart": "أضف إلى السلة",
+  "RecommendedProducts": "المنتجات الموصى بها",
+    "categories": "الفئات",
+
+
+
+    
+   "item_title": "رولكس سبمارينر",
+
+      "item_description": "ساعة غطس أيقونية ومتينة.",
+      
+  "model_name": "أوميغا سبيدماستر",
+      "model_description": "ساعة تاريخية ودقيقة للهبوط على سطح القمر.",
+      
+    "watch_nameq": "سايكو 5",
+
+      "watch_description": "ساعة ميكانيكية ميسورة وموثوقة.",
+      
+   "luxury_watch_name": "باتيك فيليب نوتيلوس",
+
+      "luxury_watch_description": "فخامة بتصميم فريد.",
+      
+     "sports_watch_name": "تاج هوير موناكو",
+
+      "sports_watch_description": "ساعة رياضية ذات شكل مربع.",
+      
+    "elegant_watch_name": "أوديمار بيجيه رويال أوك",
+
+      "elegant_watch_description": "فخامة أنيقة مع إطار مثمن.",
+      
+   "rectangular_watch_name": "كارتييه تانك",
+
+      "rectangular_watch_description": "تصميم مستطيل أنيق.",
+      
+"aviation_watch_name": "برايتلينغ نافيتايمر"
+,      "aviation_watch_description": "ساعة الطيار مع أدوات الطيران.",
+    "fragrance_name": "ديور سافاج"
+,
+      "fragrance_description": "جريء وحار وطازج.",
+      
+   
+   
+      "perfume_description": "أنيق وزهري وفانيليا.",
+    "wood_perfume_name": "توم فورد عود وود"
+,
+      "wood_perfume_description": "فخم وخشبي وحار.",
+      
+   "citrus_perfume_name": "فيرساتشي ديلان بلو"
+,
+      "citrus_perfume_description": "منعش وحمضي وخشبي.",
+      
+"floral_perfume_name": "إيف سان لوران ليبر"
+,
+      "floral_perfume_description": "جريء وزهري وعطري.",
+      
+"fruity_perfume_names": "دولتشي آند غابانا لايت بلو"
+,
+      "fruity_perfume_description": "طازج وفواكه وزهري.",
+      
+  "sweet_perfume_name": "مارك جاكوبس ديزي"
+,
+      "sweet_perfume_description": "خفيف وزهري وحلو.",
+"smoky_perfume_name": "كريد أفينتوس"
+,
+      "smoky_perfume_description": "طازج وفواكه ودخاني.",
+    
+    "Home": "الرئيسية",
+"Products": "المنتجات",
+"Categories": "الفئات",
+"Brand": "العلامة التجارية",
+"Fliter":"فلتر",
+"footer1":"دليلك نحو المستقبل",
+"FooterSercies0": "تطوير التطبيقات المحمولة",
+  "FooterSercies1": "تطوير الويب",
+  "FooterSercies2": "تصميم موجه نحو المستخدم",
+  "FooterSercies3": "البيانات والتحليلات",
+  "FooterSercies": "خدماتنا",
+  "FooterContact": "تواصل معنا",
+"FooterContact0": "الرياض، المملكة العربية السعودية",
+  "FooterSercies4": "خدمات تكنولوجيا المعلومات واستشاري تكنولوجيا المعلومات",
+  "FooterSercies5": "استشارات البرمجيات"
+}

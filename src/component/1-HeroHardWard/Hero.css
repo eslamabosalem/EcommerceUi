@@ -1,0 +1,69 @@
+
+
+.backGroundText{
+    color: #003540;
+}
+
+
+.backGroundButton{
+background-color: #003540;
+color: white;
+
+}
+.backGroundButton:hover{
+background-color: #295F70;
+transition: all 0.5s;
+}
+.colorP{
+color: #666;
+font-size: 20px;
+font-weight: 300;
+line-height: 30px;
+
+}
+.backgroundbutton2{
+color: #003540;
+border: 1px solid;
+transition: all 0.7s;
+}
+.backgroundbutton2:hover{
+background-color: #F7F7F7;
+
+}
+
+
+.daark{
+    background-color: white;
+}
+
+
+
+
+
+
+/* 
+.bg-p{
+color: #666;
+}
+.bg-button{
+
+    background-color: #003540;
+    translate: 0,5 all;
+}
+.Hover:hover{
+
+    background-color: #295F70;
+transition: all 0.5s;
+
+}
+.bg-button-active{
+    background-color: #003540;
+}
+.element-border {
+    border: 1px solid var(--Hover-For-primary-button, #295F70);
+  
+}
+.element-border:hover{
+    background: var(--Hover-Secondary-Buttons, #F7F7F7);
+    transition: all 0.5s;
+} */
